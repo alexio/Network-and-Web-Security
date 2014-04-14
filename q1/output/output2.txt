@@ -1,0 +1,274 @@
+2014-02-24 08:45:49.765344 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [S], seq 3837929012, win 65535, options [mss 1460,nop,wscale 4,nop,nop,TS val 71620437 ecr 0,sackOK,eol], length 0
+2014-02-24 08:45:50.168960 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [S.], seq 308496191, ack 3837929013, win 5792, options [mss 1448,sackOK,TS val 3100691707 ecr 71620437,nop,wscale 7], length 0
+2014-02-24 08:45:50.169037 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 1, win 8257, options [nop,nop,TS val 71620840 ecr 3100691707], length 0
+2014-02-24 08:45:50.578031 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 1:7, ack 1, win 46, options [nop,nop,TS val 3100692121 ecr 71620840], length 6
+2014-02-24 08:45:50.578115 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 7, win 8256, options [nop,nop,TS val 71621249 ecr 3100692121], length 0
+2014-02-24 08:45:50.987257 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 7:418, ack 1, win 46, options [nop,nop,TS val 3100692516 ecr 71621249], length 411
+2014-02-24 08:45:50.987330 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 418, win 8230, options [nop,nop,TS val 71621656 ecr 3100692516], length 0
+2014-02-24 08:45:50.987636 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 1:19, ack 418, win 8230, options [nop,nop,TS val 71621656 ecr 3100692516], length 18
+2014-02-24 08:45:51.396462 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [.], ack 19, win 46, options [nop,nop,TS val 3100692929 ecr 71621656], length 0
+2014-02-24 08:45:51.396526 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 418:457, ack 19, win 46, options [nop,nop,TS val 3100692931 ecr 71621656], length 39
+2014-02-24 08:45:51.396594 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 457, win 8228, options [nop,nop,TS val 71622063 ecr 3100692931], length 0
+2014-02-24 08:45:51.396838 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 19:32, ack 457, win 8228, options [nop,nop,TS val 71622063 ecr 3100692931], length 13
+2014-02-24 08:45:51.805337 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 457:495, ack 32, win 46, options [nop,nop,TS val 3100693374 ecr 71622063], length 38
+2014-02-24 08:45:51.805405 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 495, win 8226, options [nop,nop,TS val 71622470 ecr 3100693374], length 0
+2014-02-24 08:45:52.215464 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 495:527, ack 32, win 46, options [nop,nop,TS val 3100693743 ecr 71622470], length 32
+2014-02-24 08:45:52.215539 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 527, win 8224, options [nop,nop,TS val 71622879 ecr 3100693743], length 0
+2014-02-24 08:45:52.215768 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 32:38, ack 527, win 8224, options [nop,nop,TS val 71622879 ecr 3100693743], length 6
+2014-02-24 08:45:52.623349 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 527:546, ack 38, win 46, options [nop,nop,TS val 3100694157 ecr 71622879], length 19
+2014-02-24 08:45:52.623440 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 546, win 8222, options [nop,nop,TS val 71623285 ecr 3100694157], length 0
+2014-02-24 08:45:52.623846 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 38:44, ack 546, win 8222, options [nop,nop,TS val 71623285 ecr 3100694157], length 6
+2014-02-24 08:45:53.032891 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 546:581, ack 44, win 46, options [nop,nop,TS val 3100694568 ecr 71623285], length 35
+2014-02-24 08:45:53.032970 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 581, win 8220, options [nop,nop,TS val 71623693 ecr 3100694568], length 0
+2014-02-24 08:45:53.034375 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 44:49, ack 581, win 8220, options [nop,nop,TS val 71623694 ecr 3100694568], length 5
+2014-02-24 08:45:53.544362 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 581:615, ack 49, win 46, options [nop,nop,TS val 3100694975 ecr 71623694], length 34
+2014-02-24 08:45:53.544439 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 615, win 8218, options [nop,nop,TS val 71624202 ecr 3100694975], length 0
+2014-02-24 08:45:53.546933 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 49:57, ack 615, win 8218, options [nop,nop,TS val 71624204 ecr 3100694975], length 8
+2014-02-24 08:45:53.924125 IP 192.168.0.100.58702 > 61.135.185.140.http: Flags [R.], seq 855415382, ack 2782315863, win 16384, length 0
+2014-02-24 08:45:53.927674 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 615:634, ack 57, win 46, options [nop,nop,TS val 3100695485 ecr 71624204], length 19
+2014-02-24 08:45:53.927752 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 634, win 8217, options [nop,nop,TS val 71624584 ecr 3100695485], length 0
+2014-02-24 08:45:53.928024 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 57:63, ack 634, win 8217, options [nop,nop,TS val 71624584 ecr 3100695485], length 6
+2014-02-24 08:45:54.260357 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 634:684, ack 63, win 46, options [nop,nop,TS val 3100695871 ecr 71624584], length 50
+2014-02-24 08:45:54.260434 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 684, win 8214, options [nop,nop,TS val 71624916 ecr 3100695871], length 0
+2014-02-24 08:45:54.261429 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 63:69, ack 684, win 8214, options [nop,nop,TS val 71624916 ecr 3100695871], length 6
+2014-02-24 08:45:54.261465 IP 192.168.0.100.58758 > 202.120.2.2.55513: Flags [S], seq 3137237135, win 65535, options [mss 1460,nop,wscale 7,nop,nop,TS val 71624917 ecr 0,sackOK,eol], length 0
+2014-02-24 08:45:54.669274 IP 202.120.2.2.55513 > 192.168.0.100.58758: Flags [S.], seq 311559663, ack 3137237136, win 5792, options [mss 1448,sackOK,TS val 3100696204 ecr 71624917,nop,wscale 7], length 0
+2014-02-24 08:45:54.669351 IP 192.168.0.100.58758 > 202.120.2.2.55513: Flags [.], ack 1, win 32769, options [nop,nop,TS val 71625323 ecr 3100696204], length 0
+2014-02-24 08:45:54.670031 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [.], ack 69, win 46, options [nop,nop,TS val 3100696244 ecr 71624916], length 0
+2014-02-24 08:45:55.077775 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 684:738, ack 69, win 46, options [nop,nop,TS val 3100696608 ecr 71624916], length 54
+2014-02-24 08:45:55.077848 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 738, win 8210, options [nop,nop,TS val 71625730 ecr 3100696608], length 0
+2014-02-24 08:45:55.080755 IP 202.120.2.2.55513 > 192.168.0.100.58758: Flags [P.], seq 1:929, ack 1, win 46, options [nop,nop,TS val 3100696624 ecr 71625323], length 928
+2014-02-24 08:45:55.080759 IP 202.120.2.2.55513 > 192.168.0.100.58758: Flags [F.], seq 929, ack 1, win 46, options [nop,nop,TS val 3100696624 ecr 71625323], length 0
+2014-02-24 08:45:55.080849 IP 192.168.0.100.58758 > 202.120.2.2.55513: Flags [.], ack 929, win 32762, options [nop,nop,TS val 71625732 ecr 3100696624], length 0
+2014-02-24 08:45:55.080850 IP 192.168.0.100.58758 > 202.120.2.2.55513: Flags [.], ack 930, win 32762, options [nop,nop,TS val 71625732 ecr 3100696624], length 0
+2014-02-24 08:45:55.096095 IP 192.168.0.100.58758 > 202.120.2.2.55513: Flags [F.], seq 1, ack 930, win 32768, options [nop,nop,TS val 71625746 ecr 3100696624], length 0
+2014-02-24 08:45:55.487015 IP 202.120.2.2.55513 > 192.168.0.100.58758: Flags [.], ack 2, win 46, options [nop,nop,TS val 3100697033 ecr 71625746], length 0
+2014-02-24 08:45:55.487094 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 738:761, ack 69, win 46, options [nop,nop,TS val 3100697034 ecr 71625730], length 23
+2014-02-24 08:45:55.487207 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 761, win 8209, options [nop,nop,TS val 71626136 ecr 3100697034], length 0
+2014-02-24 08:46:01.268211 IP 192.168.0.100.58705 > 115.239.210.151.http: Flags [F.], seq 1672693161, ack 3983450367, win 16384, length 0
+2014-02-24 08:46:11.267752 IP 192.168.0.100.58703 > 61.135.185.140.http: Flags [F.], seq 3289517761, ack 1615966895, win 16384, length 0
+2014-02-24 08:46:13.843817 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [S], seq 679660869, win 65535, options [mss 1460,nop,wscale 4,nop,nop,TS val 71644480 ecr 0,sackOK,eol], length 0
+2014-02-24 08:46:14.203272 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [S.], seq 332086014, ack 679660870, win 5792, options [mss 1448,sackOK,TS val 3100715791 ecr 71644480,nop,wscale 7], length 0
+2014-02-24 08:46:14.203344 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 1, win 8257, options [nop,nop,TS val 71644839 ecr 3100715791], length 0
+2014-02-24 08:46:14.612298 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 1:7, ack 1, win 46, options [nop,nop,TS val 3100716167 ecr 71644839], length 6
+2014-02-24 08:46:14.612383 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 7, win 8256, options [nop,nop,TS val 71645247 ecr 3100716167], length 0
+2014-02-24 08:46:15.021501 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 7:418, ack 1, win 46, options [nop,nop,TS val 3100716566 ecr 71645247], length 411
+2014-02-24 08:46:15.021571 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 418, win 8230, options [nop,nop,TS val 71645655 ecr 3100716566], length 0
+2014-02-24 08:46:15.021969 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 1:19, ack 418, win 8230, options [nop,nop,TS val 71645655 ecr 3100716566], length 18
+2014-02-24 08:46:15.430623 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [.], ack 19, win 46, options [nop,nop,TS val 3100716969 ecr 71645655], length 0
+2014-02-24 08:46:15.430739 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 418:457, ack 19, win 46, options [nop,nop,TS val 3100716972 ecr 71645655], length 39
+2014-02-24 08:46:15.430793 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 457, win 8228, options [nop,nop,TS val 71646061 ecr 3100716972], length 0
+2014-02-24 08:46:15.431055 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 19:32, ack 457, win 8228, options [nop,nop,TS val 71646061 ecr 3100716972], length 13
+2014-02-24 08:46:15.839536 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 457:495, ack 32, win 46, options [nop,nop,TS val 3100717402 ecr 71646061], length 38
+2014-02-24 08:46:15.839615 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 495, win 8226, options [nop,nop,TS val 71646468 ecr 3100717402], length 0
+2014-02-24 08:46:16.248553 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 495:527, ack 32, win 46, options [nop,nop,TS val 3100717783 ecr 71646468], length 32
+2014-02-24 08:46:16.248632 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 527, win 8224, options [nop,nop,TS val 71646876 ecr 3100717783], length 0
+2014-02-24 08:46:16.249838 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 32:39, ack 527, win 8224, options [nop,nop,TS val 71646877 ecr 3100717783], length 7
+2014-02-24 08:46:16.657879 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 527:555, ack 39, win 46, options [nop,nop,TS val 3100718200 ecr 71646877], length 28
+2014-02-24 08:46:16.657962 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 555, win 8222, options [nop,nop,TS val 71647283 ecr 3100718200], length 0
+2014-02-24 08:46:16.658167 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 39:44, ack 555, win 8222, options [nop,nop,TS val 71647283 ecr 3100718200], length 5
+2014-02-24 08:46:17.066988 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 555:589, ack 44, win 46, options [nop,nop,TS val 3100718608 ecr 71647283], length 34
+2014-02-24 08:46:17.067067 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 589, win 8220, options [nop,nop,TS val 71647691 ecr 3100718608], length 0
+2014-02-24 08:46:17.067954 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 44:52, ack 589, win 8220, options [nop,nop,TS val 71647691 ecr 3100718608], length 8
+2014-02-24 08:46:17.476357 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 589:608, ack 52, win 46, options [nop,nop,TS val 3100719017 ecr 71647691], length 19
+2014-02-24 08:46:17.476451 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 608, win 8219, options [nop,nop,TS val 71648098 ecr 3100719017], length 0
+2014-02-24 08:46:17.477892 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 52:58, ack 608, win 8219, options [nop,nop,TS val 71648099 ecr 3100719017], length 6
+2014-02-24 08:46:17.885229 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 608:658, ack 58, win 46, options [nop,nop,TS val 3100719425 ecr 71648099], length 50
+2014-02-24 08:46:17.885304 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 658, win 8215, options [nop,nop,TS val 71648505 ecr 3100719425], length 0
+2014-02-24 08:46:17.886087 IP 192.168.0.100.58760 > 202.120.2.2.50800: Flags [S], seq 3098277480, win 65535, options [mss 1460,nop,wscale 7,nop,nop,TS val 71648505 ecr 0,sackOK,eol], length 0
+2014-02-24 08:46:17.886113 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 58:75, ack 658, win 8215, options [nop,nop,TS val 71648505 ecr 3100719425], length 17
+2014-02-24 08:46:18.294082 IP 202.120.2.2.50800 > 192.168.0.100.58760: Flags [S.], seq 327552066, ack 3098277481, win 5792, options [mss 1448,sackOK,TS val 3100719830 ecr 71648505,nop,wscale 7], length 0
+2014-02-24 08:46:18.294178 IP 192.168.0.100.58760 > 202.120.2.2.50800: Flags [.], ack 1, win 32769, options [nop,nop,TS val 71648912 ecr 3100719830], length 0
+2014-02-24 08:46:18.294605 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [.], ack 75, win 46, options [nop,nop,TS val 3100719871 ecr 71648505], length 0
+2014-02-24 08:46:18.703170 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 658:727, ack 75, win 46, options [nop,nop,TS val 3100720233 ecr 71648505], length 69
+2014-02-24 08:46:18.703244 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 727, win 8211, options [nop,nop,TS val 71649320 ecr 3100720233], length 0
+2014-02-24 08:46:18.704512 IP 202.120.2.2.50800 > 192.168.0.100.58760: Flags [.], seq 1:1437, ack 1, win 46, options [nop,nop,TS val 3100720249 ecr 71648912], length 1436
+2014-02-24 08:46:18.707179 IP 202.120.2.2.50800 > 192.168.0.100.58760: Flags [.], seq 1437:2873, ack 1, win 46, options [nop,nop,TS val 3100720249 ecr 71648912], length 1436
+2014-02-24 08:46:18.707238 IP 192.168.0.100.58760 > 202.120.2.2.50800: Flags [.], ack 2873, win 32756, options [nop,nop,TS val 71649322 ecr 3100720249], length 0
+2014-02-24 08:46:18.707296 IP 202.120.2.2.50800 > 192.168.0.100.58760: Flags [.], seq 2873:4309, ack 1, win 46, options [nop,nop,TS val 3100720249 ecr 71648912], length 1436
+2014-02-24 08:46:18.707387 IP 202.120.2.2.50800 > 192.168.0.100.58760: Flags [.], seq 4309:5745, ack 1, win 46, options [nop,nop,TS val 3100720249 ecr 71648912], length 1436
+2014-02-24 08:46:18.707428 IP 192.168.0.100.58760 > 202.120.2.2.50800: Flags [.], ack 5745, win 32734, options [nop,nop,TS val 71649323 ecr 3100720249], length 0
+2014-02-24 08:46:18.707496 IP 202.120.2.2.50800 > 192.168.0.100.58760: Flags [.], seq 5745:7181, ack 1, win 46, options [nop,nop,TS val 3100720249 ecr 71648912], length 1436
+2014-02-24 08:46:18.707615 IP 202.120.2.2.50800 > 192.168.0.100.58760: Flags [.], seq 7181:8617, ack 1, win 46, options [nop,nop,TS val 3100720249 ecr 71648912], length 1436
+2014-02-24 08:46:18.707636 IP 192.168.0.100.58760 > 202.120.2.2.50800: Flags [.], ack 8617, win 32711, options [nop,nop,TS val 71649323 ecr 3100720249], length 0
+2014-02-24 08:46:18.707706 IP 202.120.2.2.50800 > 192.168.0.100.58760: Flags [FP.], seq 8617:9915, ack 1, win 46, options [nop,nop,TS val 3100720249 ecr 71648912], length 1298
+2014-02-24 08:46:18.707726 IP 192.168.0.100.58760 > 202.120.2.2.50800: Flags [.], ack 9916, win 32701, options [nop,nop,TS val 71649323 ecr 3100720249], length 0
+2014-02-24 08:46:18.711024 IP 192.168.0.100.58760 > 202.120.2.2.50800: Flags [.], ack 9916, win 32768, options [nop,nop,TS val 71649326 ecr 3100720249], length 0
+2014-02-24 08:46:18.711216 IP 192.168.0.100.58760 > 202.120.2.2.50800: Flags [F.], seq 1, ack 9916, win 32768, options [nop,nop,TS val 71649326 ecr 3100720249], length 0
+2014-02-24 08:46:19.112550 IP 202.120.2.2.50800 > 192.168.0.100.58760: Flags [.], ack 2, win 46, options [nop,nop,TS val 3100720661 ecr 71649326], length 0
+2014-02-24 08:46:19.188619 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 727:750, ack 75, win 46, options [nop,nop,TS val 3100720828 ecr 71649320], length 23
+2014-02-24 08:46:19.188748 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 750, win 8210, options [nop,nop,TS val 71649802 ecr 3100720828], length 0
+2014-02-24 08:46:23.778790 IP 192.168.0.100.63887 > 192.168.0.1.domain: 63955+ TXT? time.apple.com. (32)
+2014-02-24 08:46:23.789841 IP 192.168.0.1.domain > 192.168.0.100.63887: 63955 1/0/0 TXT "ntp minpoll 9 maxpoll 12 iburst" (76)
+2014-02-24 08:46:24.693479 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 69:81, ack 761, win 8209, options [nop,nop,TS val 71655299 ecr 3100697034], length 12
+2014-02-24 08:46:25.044321 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [.], ack 81, win 46, options [nop,nop,TS val 3100726642 ecr 71655299], length 0
+2014-02-24 08:46:25.044422 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 761:789, ack 81, win 46, options [nop,nop,TS val 3100726644 ecr 71655299], length 28
+2014-02-24 08:46:25.044479 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 789, win 8207, options [nop,nop,TS val 71655648 ecr 3100726644], length 0
+2014-02-24 08:46:25.044727 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 81:86, ack 789, win 8207, options [nop,nop,TS val 71655648 ecr 3100726644], length 5
+2014-02-24 08:46:25.453322 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 789:829, ack 86, win 46, options [nop,nop,TS val 3100726991 ecr 71655648], length 40
+2014-02-24 08:46:25.453386 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 829, win 8205, options [nop,nop,TS val 71656056 ecr 3100726991], length 0
+2014-02-24 08:46:25.453647 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 86:92, ack 829, win 8205, options [nop,nop,TS val 71656056 ecr 3100726991], length 6
+2014-02-24 08:46:25.862500 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 829:879, ack 92, win 46, options [nop,nop,TS val 3100727399 ecr 71656056], length 50
+2014-02-24 08:46:25.862591 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 879, win 8202, options [nop,nop,TS val 71656464 ecr 3100727399], length 0
+2014-02-24 08:46:25.864439 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 92:98, ack 879, win 8202, options [nop,nop,TS val 71656465 ecr 3100727399], length 6
+2014-02-24 08:46:25.864487 IP 192.168.0.100.58761 > 202.120.2.2.58774: Flags [S], seq 677287987, win 65535, options [mss 1460,nop,wscale 7,nop,nop,TS val 71656465 ecr 0,sackOK,eol], length 0
+2014-02-24 08:46:26.271664 IP 202.120.2.2.58774 > 192.168.0.100.58761: Flags [S.], seq 347374538, ack 677287988, win 5792, options [mss 1448,sackOK,TS val 3100727808 ecr 71656465,nop,wscale 7], length 0
+2014-02-24 08:46:26.271773 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [.], ack 98, win 46, options [nop,nop,TS val 3100727848 ecr 71656465], length 0
+2014-02-24 08:46:26.271802 IP 192.168.0.100.58761 > 202.120.2.2.58774: Flags [.], ack 1, win 32769, options [nop,nop,TS val 71656871 ecr 3100727808], length 0
+2014-02-24 08:46:26.683343 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 879:933, ack 98, win 46, options [nop,nop,TS val 3100728214 ecr 71656465], length 54
+2014-02-24 08:46:26.683471 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 933, win 8198, options [nop,nop,TS val 71657280 ecr 3100728214], length 0
+2014-02-24 08:46:26.683950 IP 202.120.2.2.58774 > 192.168.0.100.58761: Flags [P.], seq 1:230, ack 1, win 46, options [nop,nop,TS val 3100728219 ecr 71656871], length 229
+2014-02-24 08:46:26.683955 IP 202.120.2.2.58774 > 192.168.0.100.58761: Flags [F.], seq 230, ack 1, win 46, options [nop,nop,TS val 3100728219 ecr 71656871], length 0
+2014-02-24 08:46:26.684032 IP 192.168.0.100.58761 > 202.120.2.2.58774: Flags [.], ack 230, win 32768, options [nop,nop,TS val 71657280 ecr 3100728219], length 0
+2014-02-24 08:46:26.684032 IP 192.168.0.100.58761 > 202.120.2.2.58774: Flags [.], ack 231, win 32768, options [nop,nop,TS val 71657280 ecr 3100728219], length 0
+2014-02-24 08:46:26.684379 IP 192.168.0.100.58761 > 202.120.2.2.58774: Flags [F.], seq 1, ack 231, win 32768, options [nop,nop,TS val 71657280 ecr 3100728219], length 0
+2014-02-24 08:46:27.090072 IP 202.120.2.2.58774 > 192.168.0.100.58761: Flags [.], ack 2, win 46, options [nop,nop,TS val 3100728628 ecr 71657280], length 0
+2014-02-24 08:46:27.090131 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 933:956, ack 98, win 46, options [nop,nop,TS val 3100728629 ecr 71657280], length 23
+2014-02-24 08:46:27.090193 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 956, win 8197, options [nop,nop,TS val 71657686 ecr 3100728629], length 0
+2014-02-24 08:46:31.350352 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 75:88, ack 750, win 8210, options [nop,nop,TS val 71661944 ecr 3100720828], length 13
+2014-02-24 08:46:31.351188 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [S], seq 2119708603, win 65535, options [mss 1460,nop,wscale 4,nop,nop,TS val 71661944 ecr 0,sackOK,eol], length 0
+2014-02-24 08:46:31.692021 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [.], ack 88, win 46, options [nop,nop,TS val 3100733294 ecr 71661944], length 0
+2014-02-24 08:46:31.692147 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 750:778, ack 88, win 46, options [nop,nop,TS val 3100733296 ecr 71661944], length 28
+2014-02-24 08:46:31.692151 IP 202.120.2.2.ftp > 192.168.0.100.58762: Flags [S.], seq 352023725, ack 2119708604, win 5792, options [mss 1448,sackOK,TS val 3100733298 ecr 71661944,nop,wscale 7], length 0
+2014-02-24 08:46:31.692216 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 778, win 8208, options [nop,nop,TS val 71662285 ecr 3100733296], length 0
+2014-02-24 08:46:31.692261 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [.], ack 1, win 8257, options [nop,nop,TS val 71662285 ecr 3100733298], length 0
+2014-02-24 08:46:31.692433 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 88:93, ack 778, win 8208, options [nop,nop,TS val 71662285 ecr 3100733296], length 5
+2014-02-24 08:46:32.101221 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 778:818, ack 93, win 46, options [nop,nop,TS val 3100733641 ecr 71662285], length 40
+2014-02-24 08:46:32.101284 IP 202.120.2.2.ftp > 192.168.0.100.58762: Flags [P.], seq 1:7, ack 1, win 46, options [nop,nop,TS val 3100733652 ecr 71662285], length 6
+2014-02-24 08:46:32.101337 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 818, win 8205, options [nop,nop,TS val 71662693 ecr 3100733641], length 0
+2014-02-24 08:46:32.101385 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [.], ack 7, win 8256, options [nop,nop,TS val 71662693 ecr 3100733652], length 0
+2014-02-24 08:46:32.101927 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 93:101, ack 818, win 8205, options [nop,nop,TS val 71662693 ecr 3100733641], length 8
+2014-02-24 08:46:32.357095 IP 192.168.0.100.58705 > 115.239.210.151.http: Flags [R.], seq 1, ack 1, win 16384, length 0
+2014-02-24 08:46:32.406322 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 818:837, ack 101, win 46, options [nop,nop,TS val 3100734048 ecr 71662693], length 19
+2014-02-24 08:46:32.406404 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 837, win 8204, options [nop,nop,TS val 71662997 ecr 3100734048], length 0
+2014-02-24 08:46:32.406523 IP 202.120.2.2.ftp > 192.168.0.100.58762: Flags [P.], seq 7:418, ack 1, win 46, options [nop,nop,TS val 3100734048 ecr 71662693], length 411
+2014-02-24 08:46:32.406611 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [.], ack 418, win 8230, options [nop,nop,TS val 71662997 ecr 3100734048], length 0
+2014-02-24 08:46:32.406830 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 101:107, ack 837, win 8204, options [nop,nop,TS val 71662997 ecr 3100734048], length 6
+2014-02-24 08:46:32.406895 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [P.], seq 1:19, ack 418, win 8230, options [nop,nop,TS val 71662997 ecr 3100734048], length 18
+2014-02-24 08:46:32.816987 IP 202.120.2.2.ftp > 192.168.0.100.58762: Flags [.], ack 19, win 46, options [nop,nop,TS val 3100734352 ecr 71662997], length 0
+2014-02-24 08:46:32.817580 IP 202.120.2.2.ftp > 192.168.0.100.58762: Flags [P.], seq 418:457, ack 19, win 46, options [nop,nop,TS val 3100734354 ecr 71662997], length 39
+2014-02-24 08:46:32.817649 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [.], ack 457, win 8228, options [nop,nop,TS val 71663406 ecr 3100734354], length 0
+2014-02-24 08:46:32.817761 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 837:887, ack 107, win 46, options [nop,nop,TS val 3100734354 ecr 71662997], length 50
+2014-02-24 08:46:32.817846 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 887, win 8201, options [nop,nop,TS val 71663406 ecr 3100734354], length 0
+2014-02-24 08:46:32.817865 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [P.], seq 19:32, ack 457, win 8228, options [nop,nop,TS val 71663406 ecr 3100734354], length 13
+2014-02-24 08:46:32.818674 IP 192.168.0.100.58763 > 202.120.2.2.50042: Flags [S], seq 1213956715, win 65535, options [mss 1460,nop,wscale 7,nop,nop,TS val 71663407 ecr 0,sackOK,eol], length 0
+2014-02-24 08:46:32.818798 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 107:122, ack 887, win 8201, options [nop,nop,TS val 71663407 ecr 3100734354], length 15
+2014-02-24 08:46:33.226211 IP 202.120.2.2.50042 > 192.168.0.100.58763: Flags [S.], seq 359805400, ack 1213956716, win 5792, options [mss 1448,sackOK,TS val 3100734764 ecr 71663407,nop,wscale 7], length 0
+2014-02-24 08:46:33.226273 IP 192.168.0.100.58763 > 202.120.2.2.50042: Flags [.], ack 1, win 32769, options [nop,nop,TS val 71663813 ecr 3100734764], length 0
+2014-02-24 08:46:33.226762 IP 202.120.2.2.ftp > 192.168.0.100.58762: Flags [P.], seq 457:495, ack 32, win 46, options [nop,nop,TS val 3100734786 ecr 71663406], length 38
+2014-02-24 08:46:33.226764 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [.], ack 122, win 46, options [nop,nop,TS val 3100734805 ecr 71663407], length 0
+2014-02-24 08:46:33.226806 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [.], ack 495, win 8226, options [nop,nop,TS val 71663813 ecr 3100734786], length 0
+2014-02-24 08:46:33.635392 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 887:953, ack 122, win 46, options [nop,nop,TS val 3100735169 ecr 71663407], length 66
+2014-02-24 08:46:33.635522 IP 202.120.2.2.ftp > 192.168.0.100.58762: Flags [P.], seq 495:527, ack 32, win 46, options [nop,nop,TS val 3100735172 ecr 71663813], length 32
+2014-02-24 08:46:33.635541 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 953, win 8197, options [nop,nop,TS val 71664221 ecr 3100735169], length 0
+2014-02-24 08:46:33.635610 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [.], ack 527, win 8224, options [nop,nop,TS val 71664221 ecr 3100735172], length 0
+2014-02-24 08:46:33.636299 IP 202.120.2.2.50042 > 192.168.0.100.58763: Flags [.], seq 1:1437, ack 1, win 46, options [nop,nop,TS val 3100735196 ecr 71663813], length 1436
+2014-02-24 08:46:33.636303 IP 202.120.2.2.50042 > 192.168.0.100.58763: Flags [P.], seq 1437:2389, ack 1, win 46, options [nop,nop,TS val 3100735196 ecr 71663813], length 952
+2014-02-24 08:46:33.636304 IP 202.120.2.2.50042 > 192.168.0.100.58763: Flags [F.], seq 2389, ack 1, win 46, options [nop,nop,TS val 3100735196 ecr 71663813], length 0
+2014-02-24 08:46:33.636371 IP 192.168.0.100.58763 > 202.120.2.2.50042: Flags [.], ack 2389, win 32751, options [nop,nop,TS val 71664221 ecr 3100735196], length 0
+2014-02-24 08:46:33.636371 IP 192.168.0.100.58763 > 202.120.2.2.50042: Flags [.], ack 2390, win 32751, options [nop,nop,TS val 71664221 ecr 3100735196], length 0
+2014-02-24 08:46:33.636978 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [P.], seq 32:45, ack 527, win 8224, options [nop,nop,TS val 71664222 ecr 3100735172], length 13
+2014-02-24 08:46:33.642307 IP 192.168.0.100.58763 > 202.120.2.2.50042: Flags [F.], seq 1, ack 2390, win 32768, options [nop,nop,TS val 71664227 ecr 3100735196], length 0
+2014-02-24 08:46:34.044268 IP 202.120.2.2.ftp > 192.168.0.100.58762: Flags [P.], seq 527:555, ack 45, win 46, options [nop,nop,TS val 3100735585 ecr 71664222], length 28
+2014-02-24 08:46:34.044330 IP 202.120.2.2.50042 > 192.168.0.100.58763: Flags [.], ack 2, win 46, options [nop,nop,TS val 3100735587 ecr 71664227], length 0
+2014-02-24 08:46:34.044384 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [.], ack 555, win 8222, options [nop,nop,TS val 71664628 ecr 3100735585], length 0
+2014-02-24 08:46:34.045065 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [P.], seq 45:53, ack 555, win 8222, options [nop,nop,TS val 71664628 ecr 3100735585], length 8
+2014-02-24 08:46:34.053021 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 953:976, ack 122, win 46, options [nop,nop,TS val 3100735695 ecr 71664221], length 23
+2014-02-24 08:46:34.053117 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 976, win 8196, options [nop,nop,TS val 71664636 ecr 3100735695], length 0
+2014-02-24 08:46:34.453134 IP 202.120.2.2.ftp > 192.168.0.100.58762: Flags [P.], seq 555:574, ack 53, win 46, options [nop,nop,TS val 3100735992 ecr 71664628], length 19
+2014-02-24 08:46:34.453218 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [.], ack 574, win 8221, options [nop,nop,TS val 71665036 ecr 3100735992], length 0
+2014-02-24 08:46:34.453335 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [P.], seq 53:59, ack 574, win 8221, options [nop,nop,TS val 71665036 ecr 3100735992], length 6
+2014-02-24 08:46:34.862368 IP 202.120.2.2.ftp > 192.168.0.100.58762: Flags [P.], seq 574:624, ack 59, win 46, options [nop,nop,TS val 3100736401 ecr 71665036], length 50
+2014-02-24 08:46:34.862449 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [.], ack 624, win 8218, options [nop,nop,TS val 71665444 ecr 3100736401], length 0
+2014-02-24 08:46:34.864297 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [P.], seq 59:79, ack 624, win 8218, options [nop,nop,TS val 71665445 ecr 3100736401], length 20
+2014-02-24 08:46:34.864348 IP 192.168.0.100.58764 > 202.120.2.2.38890: Flags [S], seq 395781206, win 65535, options [mss 1460,nop,wscale 7,nop,nop,TS val 71665445 ecr 0,sackOK,eol], length 0
+2014-02-24 08:46:35.272473 IP 202.120.2.2.38890 > 192.168.0.100.58764: Flags [S.], seq 370504769, ack 395781207, win 5792, options [mss 1448,sackOK,TS val 3100736809 ecr 71665445,nop,wscale 7], length 0
+2014-02-24 08:46:35.272552 IP 192.168.0.100.58764 > 202.120.2.2.38890: Flags [.], ack 1, win 32769, options [nop,nop,TS val 71665853 ecr 3100736809], length 0
+2014-02-24 08:46:35.272859 IP 202.120.2.2.ftp > 192.168.0.100.58762: Flags [.], ack 79, win 46, options [nop,nop,TS val 3100736849 ecr 71665445], length 0
+2014-02-24 08:46:35.680912 IP 202.120.2.2.ftp > 192.168.0.100.58762: Flags [P.], seq 624:695, ack 79, win 46, options [nop,nop,TS val 3100737215 ecr 71665445], length 71
+2014-02-24 08:46:35.680986 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [.], ack 695, win 8213, options [nop,nop,TS val 71666261 ecr 3100737215], length 0
+2014-02-24 08:46:35.681901 IP 202.120.2.2.38890 > 192.168.0.100.58764: Flags [.], seq 1:1437, ack 1, win 46, options [nop,nop,TS val 3100737227 ecr 71665853], length 1436
+2014-02-24 08:46:35.682006 IP 202.120.2.2.38890 > 192.168.0.100.58764: Flags [.], seq 1437:2873, ack 1, win 46, options [nop,nop,TS val 3100737227 ecr 71665853], length 1436
+2014-02-24 08:46:35.682013 IP 202.120.2.2.38890 > 192.168.0.100.58764: Flags [P.], seq 2873:3274, ack 1, win 46, options [nop,nop,TS val 3100737227 ecr 71665853], length 401
+2014-02-24 08:46:35.682014 IP 202.120.2.2.38890 > 192.168.0.100.58764: Flags [F.], seq 3274, ack 1, win 46, options [nop,nop,TS val 3100737228 ecr 71665853], length 0
+2014-02-24 08:46:35.682064 IP 192.168.0.100.58764 > 202.120.2.2.38890: Flags [.], ack 2873, win 32747, options [nop,nop,TS val 71666262 ecr 3100737227], length 0
+2014-02-24 08:46:35.682065 IP 192.168.0.100.58764 > 202.120.2.2.38890: Flags [.], ack 3274, win 32744, options [nop,nop,TS val 71666262 ecr 3100737227], length 0
+2014-02-24 08:46:35.682094 IP 192.168.0.100.58764 > 202.120.2.2.38890: Flags [.], ack 3275, win 32744, options [nop,nop,TS val 71666262 ecr 3100737228], length 0
+2014-02-24 08:46:35.684067 IP 192.168.0.100.58764 > 202.120.2.2.38890: Flags [.], ack 3275, win 32768, options [nop,nop,TS val 71666263 ecr 3100737228], length 0
+2014-02-24 08:46:35.690090 IP 192.168.0.100.58764 > 202.120.2.2.38890: Flags [F.], seq 1, ack 3275, win 32768, options [nop,nop,TS val 71666269 ecr 3100737228], length 0
+2014-02-24 08:46:36.089787 IP 202.120.2.2.38890 > 192.168.0.100.58764: Flags [.], ack 2, win 46, options [nop,nop,TS val 3100737635 ecr 71666269], length 0
+2014-02-24 08:46:36.108728 IP 202.120.2.2.ftp > 192.168.0.100.58762: Flags [P.], seq 695:718, ack 79, win 46, options [nop,nop,TS val 3100737751 ecr 71666261], length 23
+2014-02-24 08:46:36.108801 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [.], ack 718, win 8212, options [nop,nop,TS val 71666685 ecr 3100737751], length 0
+2014-02-24 08:46:37.617048 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 98:104, ack 956, win 8197, options [nop,nop,TS val 71668188 ecr 3100728629], length 6
+2014-02-24 08:46:38.032891 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [.], ack 104, win 46, options [nop,nop,TS val 3100739561 ecr 71668188], length 0
+2014-02-24 08:46:38.033325 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 956:985, ack 104, win 46, options [nop,nop,TS val 3100739561 ecr 71668188], length 29
+2014-02-24 08:46:38.033396 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 985, win 8195, options [nop,nop,TS val 71668603 ecr 3100739561], length 0
+2014-02-24 08:46:38.033694 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 104:109, ack 985, win 8195, options [nop,nop,TS val 71668603 ecr 3100739561], length 5
+2014-02-24 08:46:38.442961 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 985:1019, ack 109, win 46, options [nop,nop,TS val 3100739978 ecr 71668603], length 34
+2014-02-24 08:46:38.443041 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 1019, win 8193, options [nop,nop,TS val 71669012 ecr 3100739978], length 0
+2014-02-24 08:46:40.314852 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 109:120, ack 1019, win 8193, options [nop,nop,TS val 71670883 ecr 3100739978], length 11
+2014-02-24 08:46:40.692663 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [.], ack 120, win 46, options [nop,nop,TS val 3100742301 ecr 71670883], length 0
+2014-02-24 08:46:42.533139 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 1019:1047, ack 120, win 46, options [nop,nop,TS val 3100744130 ecr 71670883], length 28
+2014-02-24 08:46:42.533212 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 1047, win 8191, options [nop,nop,TS val 71673097 ecr 3100744130], length 0
+2014-02-24 08:46:42.533454 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 120:125, ack 1047, win 8192, options [nop,nop,TS val 71673097 ecr 3100744130], length 5
+2014-02-24 08:46:42.942375 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [.], ack 125, win 46, options [nop,nop,TS val 3100744481 ecr 71673097], length 0
+2014-02-24 08:46:42.942458 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 1047:1086, ack 125, win 46, options [nop,nop,TS val 3100744481 ecr 71673097], length 39
+2014-02-24 08:46:42.942573 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 1086, win 8189, options [nop,nop,TS val 71673505 ecr 3100744481], length 0
+2014-02-24 08:46:42.942869 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 125:131, ack 1086, win 8192, options [nop,nop,TS val 71673505 ecr 3100744481], length 6
+2014-02-24 08:46:43.351658 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 1086:1135, ack 131, win 46, options [nop,nop,TS val 3100744897 ecr 71673505], length 49
+2014-02-24 08:46:43.351736 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 1135, win 8188, options [nop,nop,TS val 71673913 ecr 3100744897], length 0
+2014-02-24 08:46:43.352842 IP 192.168.0.100.58765 > 202.120.2.2.58898: Flags [S], seq 504855361, win 65535, options [mss 1460,nop,wscale 7,nop,nop,TS val 71673914 ecr 0,sackOK,eol], length 0
+2014-02-24 08:46:43.352891 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [P.], seq 131:137, ack 1135, win 8192, options [nop,nop,TS val 71673914 ecr 3100744897], length 6
+2014-02-24 08:46:43.760593 IP 202.120.2.2.58898 > 192.168.0.100.58765: Flags [S.], seq 372510634, ack 504855362, win 5792, options [mss 1448,sackOK,TS val 3100745302 ecr 71673914,nop,wscale 7], length 0
+2014-02-24 08:46:43.760725 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [.], ack 137, win 46, options [nop,nop,TS val 3100745342 ecr 71673914], length 0
+2014-02-24 08:46:43.760743 IP 192.168.0.100.58765 > 202.120.2.2.58898: Flags [.], ack 1, win 32769, options [nop,nop,TS val 71674320 ecr 3100745302], length 0
+2014-02-24 08:46:44.169417 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 1135:1189, ack 137, win 46, options [nop,nop,TS val 3100745706 ecr 71673914], length 54
+2014-02-24 08:46:44.169490 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 1189, win 8188, options [nop,nop,TS val 71674728 ecr 3100745706], length 0
+2014-02-24 08:46:45.090783 IP 202.120.2.2.58898 > 192.168.0.100.58765: Flags [P.], seq 1:1034, ack 1, win 46, options [nop,nop,TS val 3100746713 ecr 71674320], length 1033
+2014-02-24 08:46:45.090855 IP 192.168.0.100.58765 > 202.120.2.2.58898: Flags [.], ack 1034, win 32761, options [nop,nop,TS val 71675649 ecr 3100746713], length 0
+2014-02-24 08:46:45.091299 IP 202.120.2.2.58898 > 192.168.0.100.58765: Flags [FP.], seq 1034:1354, ack 1, win 46, options [nop,nop,TS val 3100746714 ecr 71674320], length 320
+2014-02-24 08:46:45.091361 IP 192.168.0.100.58765 > 202.120.2.2.58898: Flags [.], ack 1355, win 32765, options [nop,nop,TS val 71675649 ecr 3100746714], length 0
+2014-02-24 08:46:45.091572 IP 192.168.0.100.58765 > 202.120.2.2.58898: Flags [F.], seq 1, ack 1355, win 32768, options [nop,nop,TS val 71675649 ecr 3100746714], length 0
+2014-02-24 08:46:45.498900 IP 202.120.2.2.58898 > 192.168.0.100.58765: Flags [.], ack 2, win 46, options [nop,nop,TS val 3100747040 ecr 71675649], length 0
+2014-02-24 08:46:45.499161 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [P.], seq 1189:1212, ack 137, win 46, options [nop,nop,TS val 3100747040 ecr 71674728], length 23
+2014-02-24 08:46:45.499220 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 1212, win 8190, options [nop,nop,TS val 71676055 ecr 3100747040], length 0
+2014-02-24 08:46:50.276467 IP 192.168.0.100.58703 > 61.135.185.140.http: Flags [F.], seq 0, ack 1, win 16384, length 0
+2014-02-24 08:46:51.044698 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 122:134, ack 976, win 8196, options [nop,nop,TS val 71681595 ecr 3100735695], length 12
+2014-02-24 08:46:51.431300 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [.], ack 134, win 46, options [nop,nop,TS val 3100752992 ecr 71681595], length 0
+2014-02-24 08:46:51.431545 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 976:1004, ack 134, win 46, options [nop,nop,TS val 3100752994 ecr 71681595], length 28
+2014-02-24 08:46:51.431612 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 1004, win 8194, options [nop,nop,TS val 71681979 ecr 3100752994], length 0
+2014-02-24 08:46:51.431834 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 134:139, ack 1004, win 8194, options [nop,nop,TS val 71681979 ecr 3100752994], length 5
+2014-02-24 08:46:51.839980 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 1004:1043, ack 139, win 46, options [nop,nop,TS val 3100753379 ecr 71681979], length 39
+2014-02-24 08:46:51.840075 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 1043, win 8191, options [nop,nop,TS val 71682386 ecr 3100753379], length 0
+2014-02-24 08:46:51.840754 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 139:145, ack 1043, win 8192, options [nop,nop,TS val 71682386 ecr 3100753379], length 6
+2014-02-24 08:46:52.249478 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 1043:1093, ack 145, win 46, options [nop,nop,TS val 3100753790 ecr 71682386], length 50
+2014-02-24 08:46:52.249626 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 1093, win 8188, options [nop,nop,TS val 71682795 ecr 3100753790], length 0
+2014-02-24 08:46:52.250556 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [P.], seq 145:163, ack 1093, win 8192, options [nop,nop,TS val 71682795 ecr 3100753790], length 18
+2014-02-24 08:46:52.250595 IP 192.168.0.100.58766 > 202.120.2.2.40607: Flags [S], seq 4120106672, win 65535, options [mss 1460,nop,wscale 7,nop,nop,TS val 71682796 ecr 0,sackOK,eol], length 0
+2014-02-24 08:46:52.658196 IP 202.120.2.2.40607 > 192.168.0.100.58766: Flags [S.], seq 376537730, ack 4120106673, win 5792, options [mss 1448,sackOK,TS val 3100754197 ecr 71682796,nop,wscale 7], length 0
+2014-02-24 08:46:52.658272 IP 192.168.0.100.58766 > 202.120.2.2.40607: Flags [.], ack 1, win 32769, options [nop,nop,TS val 71683202 ecr 3100754197], length 0
+2014-02-24 08:46:52.658829 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [.], ack 163, win 46, options [nop,nop,TS val 3100754238 ecr 71682795], length 0
+2014-02-24 08:46:53.064016 IP 192.168.0.1 > all-systems.mcast.net: igmp query v2
+2014-02-24 08:46:53.065333 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 1093:1162, ack 163, win 46, options [nop,nop,TS val 3100754603 ecr 71682795], length 69
+2014-02-24 08:46:53.065406 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 1162, win 8187, options [nop,nop,TS val 71683609 ecr 3100754603], length 0
+2014-02-24 08:46:53.065530 IP 202.120.2.2.40607 > 192.168.0.100.58766: Flags [.], seq 1:1437, ack 1, win 46, options [nop,nop,TS val 3100754615 ecr 71683202], length 1436
+2014-02-24 08:46:53.065669 IP 202.120.2.2.40607 > 192.168.0.100.58766: Flags [.], seq 1437:2873, ack 1, win 46, options [nop,nop,TS val 3100754615 ecr 71683202], length 1436
+2014-02-24 08:46:53.065741 IP 192.168.0.100.58766 > 202.120.2.2.40607: Flags [.], ack 2873, win 32756, options [nop,nop,TS val 71683609 ecr 3100754615], length 0
+2014-02-24 08:46:53.065805 IP 202.120.2.2.40607 > 192.168.0.100.58766: Flags [.], seq 2873:4309, ack 1, win 46, options [nop,nop,TS val 3100754615 ecr 71683202], length 1436
+2014-02-24 08:46:53.065854 IP 202.120.2.2.40607 > 192.168.0.100.58766: Flags [FP.], seq 4309:5737, ack 1, win 46, options [nop,nop,TS val 3100754615 ecr 71683202], length 1428
+2014-02-24 08:46:53.065883 IP 192.168.0.100.58766 > 202.120.2.2.40607: Flags [.], ack 5738, win 32734, options [nop,nop,TS val 71683609 ecr 3100754615], length 0
+2014-02-24 08:46:53.066240 IP 192.168.0.100.58766 > 202.120.2.2.40607: Flags [.], ack 5738, win 32768, options [nop,nop,TS val 71683609 ecr 3100754615], length 0
+2014-02-24 08:46:53.076781 IP 192.168.0.100.58766 > 202.120.2.2.40607: Flags [F.], seq 1, ack 5738, win 32768, options [nop,nop,TS val 71683620 ecr 3100754615], length 0
+2014-02-24 08:46:53.477063 IP 202.120.2.2.40607 > 192.168.0.100.58766: Flags [.], ack 2, win 46, options [nop,nop,TS val 3100755021 ecr 71683620], length 0
+2014-02-24 08:46:53.487120 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [P.], seq 1162:1185, ack 163, win 46, options [nop,nop,TS val 3100755130 ecr 71683609], length 23
+2014-02-24 08:46:53.487248 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 1185, win 8190, options [nop,nop,TS val 71684028 ecr 3100755130], length 0
+2014-02-24 08:46:53.677794 IP 192.168.0.104 > 224.0.0.251: igmp v2 report 224.0.0.251
+2014-02-24 08:47:09.052783 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [F.], seq 137, ack 1212, win 8192, options [nop,nop,TS val 71699588 ecr 3100747040], length 0
+2014-02-24 08:47:09.431160 IP 202.120.2.2.ftp > 192.168.0.100.58757: Flags [F.], seq 1212, ack 138, win 46, options [nop,nop,TS val 3100771003 ecr 71699588], length 0
+2014-02-24 08:47:09.431240 IP 192.168.0.100.58757 > 202.120.2.2.ftp: Flags [.], ack 1213, win 8192, options [nop,nop,TS val 71699966 ecr 3100771003], length 0
+2014-02-24 08:47:14.335985 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [F.], seq 163, ack 1185, win 8192, options [nop,nop,TS val 71704864 ecr 3100755130], length 0
+2014-02-24 08:47:14.336330 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [F.], seq 79, ack 718, win 8212, options [nop,nop,TS val 71704864 ecr 3100737751], length 0
+2014-02-24 08:47:14.749614 IP 202.120.2.2.ftp > 192.168.0.100.58759: Flags [F.], seq 1185, ack 164, win 46, options [nop,nop,TS val 3100776289 ecr 71704864], length 0
+2014-02-24 08:47:14.749678 IP 192.168.0.100.58759 > 202.120.2.2.ftp: Flags [.], ack 1186, win 8192, options [nop,nop,TS val 71705275 ecr 3100776289], length 0
+2014-02-24 08:47:14.749763 IP 202.120.2.2.ftp > 192.168.0.100.58762: Flags [F.], seq 718, ack 80, win 46, options [nop,nop,TS val 3100776292 ecr 71704864], length 0
+2014-02-24 08:47:14.749807 IP 192.168.0.100.58762 > 202.120.2.2.ftp: Flags [.], ack 719, win 8212, options [nop,nop,TS val 71705275 ecr 3100776292], length 0
